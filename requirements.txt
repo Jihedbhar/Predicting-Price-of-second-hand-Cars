@@ -1,0 +1,13 @@
+# Data handling
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+pydot
+
+# Machine Learning and Deep Learning
+tensorflow
+kagglehub
+scikit-learn
